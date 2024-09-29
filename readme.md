@@ -1,0 +1,1 @@
+https://www.svgrepo.com/svg/308172/work-on-computer-employee-software-engineer-programmer?edit=true

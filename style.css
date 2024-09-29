@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wdth,wght,GRAD@0,8..144,125,700,-1;1,8..144,125,700,-1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.container{
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar-nav{
+    font-family: "Trispace", sans-serif;
+    color: #fff;
+}
+
+.first-one{
+    text-decoration: underline;
+    text-decoration-color: #C10E11;
+    text-underline-offset: 8px;
+}
+
+.second-one{
+    text-decoration: underline;
+    text-decoration-color: #C10EBE;
+    text-underline-offset: 8px;
+}
+
+.third-one{
+    text-decoration: underline;
+    text-decoration-color: #C10E6A;
+    text-underline-offset: 8px;
+}
+
+.introduction-text{
+    font-family: "Roboto Serif", serif;
+    color: #fff;
+    text-align: left;
+    margin-top: 10%;
+}
+
+.title{
+    font-family: "Roboto Serif", serif;
+    font-weight: 600;
+}
+
+.my-name{
+    font-family: "Rammetto One", sans-serif;
+    color: #7B1C6D;
+}
+
+.subtitle{
+    font-family: "Roboto Serif", serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.my-role{
+    text-decoration: underline;
+    text-decoration-color: #C10E11;
+    text-underline-offset: 8px;
+}
+
+.introduction-image{
+    margin-top: 10%;
+}
+
+.developer-image{
+    width: 80%;
+    height: 80%;
+}
